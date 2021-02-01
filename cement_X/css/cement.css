@@ -1,0 +1,45 @@
+/* Style the header */
+header 
+{
+  background : linear-gradient(130deg, #848484 60%, #fdcd3b 60%);
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+ 
+}
+
+.background  /*box backgorund color*/
+{
+background : linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+}
+body
+{
+font-family: "Lato", sans-serif;
+}
+
+
+.tablink
+{
+  background-color:#fdcd3b;
+  color: white;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 17px;
+  width: 10%;
+}
+
+.tablink:hover
+{
+  background-color: #848484;
+}
+
+.cont
+{
+ background-color:#cccccc;
+}
+
+
